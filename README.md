@@ -17,6 +17,13 @@ Je suis un développeur logiciel passionné par la technologie et le partage de 
 * Travail d'équipe
 * Autonomie
 
+<h3 align="left">📊 Stats :</h3>
+<p align="center">
+<a href="https://github.com/Xenohart64/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenohart64&layout=compact&theme=radical&hide_border=true" /></a>  
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Xenohart64&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p align='center'>		
+<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Xenohart64&theme=radical&hide_border=true" />
 <!--**Projets**
 
 * [Lien vers un projet GitHub] : Une application Web de gestion de projets
