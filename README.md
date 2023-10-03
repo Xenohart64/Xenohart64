@@ -1,12 +1,12 @@
 # À propos de moi
 
-Je suis un développeur logiciel passionné par la technologie et le partage de mes connaissances avec les autres. J'ai plus de 10 ans d'expérience dans le développement d'applications Web et mobiles.
+Je suis un développeur logiciel passionné par la technologie et le partage de mes connaissances avec les autres.
 
 **Compétences techniques**
 
-* Programmation : Java, Python, JavaScript, C/C++
-* Bases de données : SQL, NoSQL
-* Cloud computing : AWS, Azure, GCP
+* Programmation : Java, Python, JavaScript, PHP, HTML/CSS
+* Bases de données : SQL
+* Framework : Laravel, Symfony
 * Outils de développement : Git, GitHub, IDEs
 
 **Compétences non techniques**
@@ -15,7 +15,7 @@ Je suis un développeur logiciel passionné par la technologie et le partage de 
 * Travail d'équipe
 * Autonomie
 
-**Projets**
+<!--**Projets**
 
 * [Lien vers un projet GitHub] : Une application Web de gestion de projets
 * [Lien vers un autre projet GitHub] : Un jeu mobile
@@ -24,4 +24,4 @@ Je suis un développeur logiciel passionné par la technologie et le partage de 
 
 [Lien vers votre site Web]
 [Lien vers votre CV]
-[Lien vers votre LinkedIn]
+[Lien vers votre LinkedIn]-->
