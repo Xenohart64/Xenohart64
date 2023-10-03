@@ -20,7 +20,7 @@ Je suis un développeur logiciel passionné par la technologie et le partage de 
 <h3 align="left">📊 Stats :</h3>
 <p align="center">
 <a href="https://github.com/Xenohart64/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenohart64&layout=compact&theme=radical&hide_border=true" /></a>  
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Xenohart64&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Xenohart64&show_icons=true&theme=radical&hide_border=false" />
 </p>
 <!--**Projets**
 
