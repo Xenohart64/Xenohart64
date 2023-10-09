@@ -17,12 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenohart64&show_icons=true&locale=en" alt="xenohart64" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenohart64&" alt="xenohart64" /></p>
-
-* [Lien vers un projet GitHub] : Une application Web de gestion de projets
-* [Lien vers un autre projet GitHub] : Un jeu mobile
-
-**Contact**
-
-[Lien vers votre site Web]
-[Lien vers votre CV]
-[Lien vers votre LinkedIn]-->
